@@ -1,0 +1,1 @@
+Creacion de input de laberinto en el cual se le solicita al usuario su nombre y se la da labienvenida al mismo
