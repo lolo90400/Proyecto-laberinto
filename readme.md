@@ -5,3 +5,5 @@ PARTE 2 : Durante la creacion de este programa utilizamos la libreria " readchar
 PARTE 3: Durante el desarrollo de esta parte del proyecto, usamos un bucle el cual muestra los numeros del 1 al 50 oprimiendo un tecla que a su vez limpia la terminal por click.
 
 PARTE 4 : Durante el desarrollo de la cuarta parte del laberinto aplicamos diferentes metodos aprendidos anteriormente para desarrollar un laberinto funcional para convertirlo en un juego interactivo
+
+PARTE 5 : Para la tarea de hoy incluimos el pasado juego de laberinto en una clase y despues adicionamos dos nuevos mapas desde otro "folder", para esto creamos una sub clase
